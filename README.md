@@ -3,6 +3,10 @@ Win32-Raspbian-Wifi-Injector
 
 Connect a wifi dongle and power supply to your Raspberry Pi and do a wireless setup. No need for a monitor and keyboard. No need for buying Model B's because you don't have a USB hub. This is a continuation of the Raspbian-Wifi-Injector program started by pjadl (https://github.com/pjadl/Raspbian-Wifi-Injector).
 
+Changes:
+========
+
+Default options were added with the ability to use them through the command line.  Run with the flag '-h' for more information.
 
 Back Story:
 ===========
