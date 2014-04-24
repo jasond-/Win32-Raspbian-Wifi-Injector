@@ -6,7 +6,7 @@ Connect a wifi dongle and power supply to your Raspberry Pi and do a wireless se
 Changes:
 ========
 
-Default options were added with the ability to use them through the command line.  Run with the flag '-h' for more information.
+The lastest release has a GUI front-end to it.
 
 Back Story:
 ===========
